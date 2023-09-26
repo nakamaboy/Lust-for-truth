@@ -61,49 +61,49 @@
     <Compile Include="Assets\VRM files\VRM\Editor\SpringBone\VRMSpringBoneColliderGroupEditor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMMaterialValidator.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\BlendShapeClipEditor.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMHumanoidNormalizerMenu.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\BlendShapeClipDrawer.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\AOT\VRMSerializerGenerator.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\VRMBlendShapeProxyEditor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\SpringBone\VRMSpringBoneUtilityEditor.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\AOT\VRMAOTCodeGenerator.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\SkinnedMeshUtility\VRMMeshIntegratorUtility.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMExporterWizard.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\VRMBlendShapeProxyValidator.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\AOT\VRMDeserializerGenerator.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMEditorExporter.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMBlendShapeExportFilter.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMEditorImporterContext.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\BuildClass.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMAssetWriter.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMExportSettingsEditor.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\RecordDisposer.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMVersionMenu.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\SpringBone\VRMSpringBoneEditor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\VRMExportUnityPackage.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\FirstPerson\RendererFirstPersonFlagsDrawer.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\SkinnedMeshUtility\VrmPrefabUtility.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\SkinnedMeshUtility\VrmMeshIntegratorWizard.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMSampleCopy.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\vrmAssetPostprocessor.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\PreviewEditor.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Meta\VRMMetaEditor.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\BlendShapeClipSelector.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMExporterVaildator.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\VrmPreference.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMHumanoidNormalizerMenu.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\AOT\VRMSerializerGenerator.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\VRMBlendShapeProxyEditor.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\AOT\VRMAOTCodeGenerator.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMExporterWizard.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\VRMBlendShapeProxyValidator.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMBlendShapeExportFilter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMAssetWriter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\RecordDisposer.cs" />
+    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMVersionMenu.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\FirstPerson\VRMFirstPersonEditor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMImporterMenu.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\PreviewFaceRenderer.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Meta\VRMMetaObjectEditor.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\SkinnedMeshUtility\VrmMeshIntegratorWizard.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMSampleCopy.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMExportSettings.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\VRMMonoBehaviourComparator.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\vrmAssetPostprocessor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\VrmTopMenu.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\PreviewEditor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\SerializedBlendShapeClipEditor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\FirstPerson\VRMFirstPersonValidator.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\BlendShapeAvatarEditor.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMExportOptions.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Meta\VRMMetaEditor.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\BlendShapeClipSelector.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\SpringBone\VRMSpringBoneValidator.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\BlendShape\BlendShapeClipEditorHelper.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\Format\VRMExporterVaildator.cs" />
-    <Compile Include="Assets\VRM files\VRM\Editor\VrmPreference.cs" />
     <Compile Include="Assets\VRM files\VRM\Editor\LookAt\VRMLookAtHeadEditor.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -371,17 +371,17 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Cecil.Pdb">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil.Mdb">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
@@ -389,14 +389,11 @@
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>

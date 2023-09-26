@@ -1,0 +1,153 @@
+label volume2:
+    "Flames were rising out of the door of their house. Klancy couldn't believe his eyes."
+
+    Kla "No, no no… NOOOOOO"
+    "Klancy rushed towards his crimson red house. But he was quickly stopped by a firefighter who wrapped his arms from behind him."
+
+    Fire "What are you doing?"
+
+    Kla "Elina! Reimond! They are still there!"
+
+    Fire "You can't, do you want to die?"
+
+    Kla "Let me go, you scoundrel."
+
+    "Klancy kicked the man's foot but another person came to subdue him before he could break out."
+
+    Kla "Let me go, you bastards!"
+
+    "Tears started to fall down his cheeks. He cried loudly for help. The fire was still burning ever so brightly."
+
+    "Klancy opened his eyes."
+    "He lifted his body off of the bed, put his clothes on and opened the door that connects to the kitchen."
+    "After making and eating breakfast, he returned to the bedroom and used the other door to enter his office."
+
+    "He walked casually and sat on his office chair.
+    Klancy took a deep breath as he looked at the files scattered messily on his table."
+    "He lifted the most recent file that was on top.
+    The trial recording of Nile Nelson and Hori Sushihara. Nile, a kidnapper."
+    "Hori, the victim of that kidnapping and the murderer of her own father."
+
+    "He grabbed the files from the binders and exited the room to enter the his squad’s detective office."
+
+    "Fushichin, Hellen, Galtomor and Salim had already arrived at the department and were working on the computers at their own desks."
+
+    Fus "Morning boss."
+
+    Kla "Morning. You're all done with your personal reports, right?"
+
+    Gal "I'm finishing it up."
+
+    Kla "Good, send it to me for review."
+
+    Fus "Still, don't you guys think it's crazy that Hori actually got sentenced for execution?"
+
+    Sal "It's crazy only if you never read the law. Homicides are punished by 40 years in prison to execution."
+
+    Kla "Right. I don't think the judge made a verdict that contradicted the law. And we testified everything that happened as is. Without any lies or cover ups."
+
+    Fus "Contradict? There is always a contradiction! Laws are always stupid because there are a bunch of different rules,
+    so many different rules and thoughts that contradict one another."
+    Fus "Depending on how you spin it, which rules you focus on or neglect, you can give Hori a variety of different sentences."
+
+    Kla "The sentence was handed out by Leopald Sentison. He is an old, very famous judge."
+    Kla "There are things that I would have done differently if I was the judge, but speaking of such matters is pointless."
+    Kla "Leopald is an experienced judge. I believe he knew what he was doing."
+
+    Fus "Tch, as if being old has any value."
+
+    Sal "Older people have more experience. That's why a lot of politicians are old."
+
+    Fus "The older you get, the more senile you become. You get burdened by knowledge and the so called experiences."
+    Fus "Experience is experience. You may be advantageous in having it but attachment to knowledge of the past proves to be a bad habit"
+
+    Fus "Plus it's not like experience matters when you become forgetful. If I hadn't been so forgetful even I would be able to access the wit and wisdom of the beyond."
+
+    Gal "What? Don't say you've started to forget about the time when you were in the police academy."
+
+    Fus "I wasn't talking about that dipshit. I was talking about memories of my past life. Not just that. An intelligence that comes from an empty mind."
+
+    Hell "Past life? Empty mind? What are you talking about?"
+
+    Fus "Yeah, it would be pretty cool to know my past life memories. But more than that it
+    would be nice to be free from all these thoughts clouding my eyes."
+    Fus "Being thoughtless sounds freaky but it’s so relaxing when it happens"
+
+    Sal "You seriously believe in nonsense like that?"
+
+    Fus "Bro, shut up! You believe in a dictator god named Hinokaiser and a crappy book called 'order of  Domurhaul’. You’re the one to ta-"
+
+    Sal "Don't insult my religion in front of me again!"
+
+    "Salim jumped up from his chair."
+
+    Fus "What? Too scared that your repressed anger is gonna pop out if I insult it? Or feeling like you're gonna break down and cry?"
+
+    Sal "Shut up!"
+
+    Kla "It's not polite to bash other people's religions and beliefs."
+
+    Fus "And it's not right to sit silent knowing others are on the wrong path."
+    "Fushichin got up from his chair as well."
+
+    Gal "Hey, calm down you two."
+
+    "Fushichin smirked towards Salim sarcastically. Klancy and Salim frowned at him."
+
+    Sal "Oh, so you're the one who knows what's right and what's wrong? I follow the path of the godflame!"
+    Sal "You spew whatever random bullshit that comes to your mind and live like a mad man."
+
+    Fus "I live as nature intended me to. Unconditioned and unslaved."
+    Fus "You live your life following in the footsteps of a cult. Unable to think for yourself."
+
+    Sal "I learn from what my elders have left me."
+    Sal "I walk the path accepted and practiced by many."
+
+    Fus "How can you ever know yourself if you follow others? How can dozens of rule-abiding scripture worshiping fools realize the truth?"
+
+    Sal "Why you-"
+
+    "Salim walked towards him, Fushichin smiled slyly."
+
+    Fus "You love your gods so much because it gives you an excuse to get violent and fight against others."
+    Fus "I bet your religious extremists felt so good when they massacred the scientists at Kialsham."
+
+    Sal "Don't bring up the past sins committed by some dogmatic mad men."
+
+    Fus "And how are you that different? The only reason you're outright not killing me is because you can't get away with it."
+    Fus "I bet one less non-believer in this world would make you very happy"
+
+    "Fushichin threw out a dirty grin."
+
+    Sal "Oh, so you're accusing me of-"
+
+    Kla "Enough of your squabbles. Honestly, I'm starting to get sick of your attitudes."
+    Kla "If you can't work as a team then maybe it's better to separate you people into different squads and demote you back to police officers."
+
+    Fus "Hey, haven't you heard? Talking it out and butting heads beforehand makes the teamwork competent in the long run?"
+
+    Kla "Fushichin, shut up. As the head detective, I'm warning you!"
+
+    "Fushichin closed his mouth, mused, sat on his chair and looked back to his computer and started quietly typing."
+
+    Kla "Hey, Salim, could you bring Juniper here?"
+
+    Sal "Ugh, sure"
+
+    "Salim exited the detective office. He soon brought Juniper from downstairs."
+
+    Jun "Hello, sir."
+
+    Kla "Good morning. Have you received the results of your interview from Captain Maksym?"
+
+    Jun "Yes, I did. He congratulated me for passing and told me that I was qualified to become a detective."
+
+    Gal "Wow, really? That’s great news. It’ll be nice to have someone new. How old are you again?"
+
+    "Juniper frowned and put her hand on her hip."
+
+    Jun "Asking a woman’s age is rude, don’t you know?"
+
+    "Galtomor grimaced in which Juniper giggled."
+
+    Jun "I’m 26."

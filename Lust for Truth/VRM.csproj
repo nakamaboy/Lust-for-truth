@@ -58,72 +58,72 @@
     <Analyzer Include="D:\Unity\Hub\Editor\2022.2.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Import\Materials\BuiltInVrmUnlitTransparentZWriteMaterialImporter.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMImporterContext.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IVRMComponent.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMMToonTextureImporter.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeMerger.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\VRMLookAtBoneApplyer.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\VRMBlendShapeProxy.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\VRMSpringUtility.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_Humanoid.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\VRMLookAtHead.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Meta\VRMMeta.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IO\VrmUtility.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Meta\VRMMetaObject.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\CurveMapper.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\MaterialValueBindingMerger.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_Material.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Extensions\VrmHumanoidExtensions.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\LookTarget.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMSpecVersion.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\FirstPerson\VRMFirstPerson.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\FastSpringBoneReplacer.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\FastSpringBoneService.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\VRMSpringBone.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\LookAtTargetSwitcher.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMException.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\FastSpringBoneDisposer.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMException.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IO\VrmTextureDescriptorGenerator.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\FirstPerson\VRMFirstPersonCameraManager.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\TransformExtensions.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\MeshPreviewItem.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_FirstPerson.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\Matrix4x4Extensions.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\VRMLookAtBlendShapeApplyer.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Meta\VRMMetaInformation.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\URP\Import\UrpVrmMaterialDescriptorGenerator.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Export\BuiltInVrmExtensionMaterialPropertyExporter.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeClipHandler.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Import\BuiltInVrmMaterialDescriptorGenerator.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_BlendShape.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMDeserializer.g.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMImporterContextExtensions.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_SecondaryAnimation.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Import\Materials\BuiltInVrmMToonMaterialImporter.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Extensions\glTF_VRMExtensions.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Export\BuiltInVrmMaterialExporter.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeClip.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\VRMLookAt.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Extensions\EnumExtensions.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMExporter.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMData.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\VRMSpringBoneColliderGroup.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeBindingMerger.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\EnumUtil.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMVersionPartial.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\SkinnedMeshUtility\VRMBoneNormalizer.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\Blinker.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Export\Materials\BuiltInVrmMToonMaterialExporter.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeKey.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\PreviewSceneManager.cs" />
-    <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMVersion.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Humanoid\VRMHumanoidDescription.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\OffsetOnTransform.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_extensions.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMSerializer.g.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeAvatar.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Import\Materials\BuiltInVrmUnlitTransparentZWriteMaterialImporter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMMToonTextureImporter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\VRMSpringUtility.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_Humanoid.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Meta\VRMMeta.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Meta\VRMMetaObject.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\CurveMapper.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\MaterialValueBindingMerger.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_Material.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\FirstPerson\VRMFirstPerson.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\FastSpringBoneReplacer.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\FastSpringBoneService.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\LookAtTargetSwitcher.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\FastSpringBoneDisposer.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\TransformExtensions.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\MeshPreviewItem.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\Matrix4x4Extensions.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\LookAt\VRMLookAtBlendShapeApplyer.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Meta\VRMMetaInformation.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Export\BuiltInVrmExtensionMaterialPropertyExporter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Import\BuiltInVrmMaterialDescriptorGenerator.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_BlendShape.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_SecondaryAnimation.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Import\Materials\BuiltInVrmMToonMaterialImporter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Extensions\glTF_VRMExtensions.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Export\BuiltInVrmMaterialExporter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\VRMExporter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\SpringBone\VRMSpringBoneColliderGroup.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeBindingMerger.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\EnumUtil.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMVersionPartial.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\IO\MaterialIO\BuiltInRP\Export\Materials\BuiltInVrmMToonMaterialExporter.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\BlendShape\BlendShapeKey.cs" />
+    <Compile Include="Assets\VRM files\VRM\Runtime\Format\VRMVersion.cs" />
     <Compile Include="Assets\VRM files\VRM\Runtime\Format\glTF_VRM_Meta.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -388,17 +388,17 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst.Cecil.Pdb">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil.Mdb">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
@@ -406,14 +406,11 @@
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    <Reference Include="Unity.Burst.Cecil.Rocks">
+      <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:\Unity\Hub\Editor\2022.2.2f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>

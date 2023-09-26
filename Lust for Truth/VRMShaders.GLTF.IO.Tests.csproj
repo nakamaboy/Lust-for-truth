@@ -59,9 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\VRM files\VRMShaders\GLTF\IO\Tests\PathObjectTests.cs" />
-    <Compile Include="Assets\VRM files\VRMShaders\GLTF\IO\Tests\CopyTextureTests.cs" />
     <Compile Include="Assets\VRM files\VRMShaders\GLTF\IO\Tests\TextureBytesTests.cs" />
     <Compile Include="Assets\VRM files\VRMShaders\GLTF\IO\Tests\MetallicRoughnessConverterTests.cs" />
+    <Compile Include="Assets\VRM files\VRMShaders\GLTF\IO\Tests\CopyTextureTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\VRM files\VRMShaders\GLTF\IO\Tests\VRMShaders.GLTF.IO.Tests.asmdef" />
